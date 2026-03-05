@@ -1,0 +1,1 @@
+console.log("GM Cartelería cargado correctamente");
